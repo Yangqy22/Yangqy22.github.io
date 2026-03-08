@@ -41,3 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.author__avatar img {
+  width: 250px !important;      /* 设置固定宽度 */
+  height: 250px !important;     /* 设置固定高度 */
+  object-fit: cover !important; /* 图片填充，会裁剪以适应尺寸 */
+  border-radius: 10% !important; /* 保持圆形 */
+  border: none !important;      /* 移除任何边框 */
+  box-shadow: none !important;  /* 移除阴影效果 */
+}
+.masthead__menu-item--lg a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
