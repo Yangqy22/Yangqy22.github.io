@@ -23,8 +23,11 @@ Education
 Publications
 ======
 
-L. Li#, H. Li#, **Q. Yang**, M. Ou, R. Zhao and X. Ji, "Espresso: Exploiting the Sparsity Property in Brain-Inspired Vision Sensors with Spatiotemporal Ordering," in **_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_**, 2025.
+**Q. Yang**#, H. Li#, L. Li, R. Zhao and X. Ji, "PHAST: Priority-Driven Hierarchical Scheduling for Real-Time ROS2 Executor on Heterogeneous Robotic Platforms," 2026 IEEE/RSJ _International Conference on Intelligent Robots and Systems (**IROS**)_, PA, USA, 2026.
 
+H. Li; Y. Liu; H. Pei; **Q. Yang**; Z. Pan; S. Ma; L. Li; R. Zhao and X. Ji, "Optimizing Spatial Data Structure with Near-Cache Acceleration by Exploiting Physical Locality," 2026 ACM/IEEE 53rd _Annual International Symposium on Computer Architecture (**ISCA**)_, NC, USA, 2026.
+
+L. Li#, H. Li#, **Q. Yang**, M. Ou, R. Zhao and X. Ji, "Espresso: Exploiting the Sparsity Property in Brain-Inspired Vision Sensors with Spatiotemporal Ordering," in **_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_**, 2026.
 
 **Q. Yang**, M. Xu, H. Li, Y. Du, D. Feng and R. Zhao, "Efficient Routing Congestion Prediction in Chip Design: Integrating Netlist Structure and Design Specifications With Heterogeneous Graph Attention Networks," in **_IEEE Journal of the Electron Devices Society_**, 2025.
 
@@ -42,7 +45,7 @@ Grants & Awards
 1. National Natural Science Foundation of China Young Doctoral Student Basic Research Fund Project, 2025 <br>
 <!-- 国家自然科学基金青年学生基础研究项目（博士研究生） -->
 <!-- Research on Brain-Inpired Proprioception ... Embodied Intelligent Interaction -->
-2. Doctoral Student Special Initiative of the Youth Science and Technology Talent Development Projects, China Association for Science and Technology, 2025 <br>
+2. Doctoral Student Program of the Youth S&T Talents Cultivation Project, CAST, 2025 <br>
 <!-- 中国科协青年科技人才培育工程博士生专项计划 -->
 3. Merit Student of Beijing, 2025 <br>
 <!-- 北京市三好学生 -->
